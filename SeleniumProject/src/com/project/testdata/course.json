@@ -1,0 +1,9 @@
+{
+	"Name": "Souhardya",
+	"Course": "BTech",
+	"Subjects": [
+		"subject1:DBMS",
+		"subject2:OOP",
+		"subject3:Networking"
+	]
+}
